@@ -1,26 +1,20 @@
-## First Name Last Name
+## Hunter Bruso
 
-### Term Year 
+### Summer 2021
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Pre Calc
 
-- Course 2
-
-- Course 3
-
-- Course 4
+- Intro to Data Science
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Card Games
 
-- Thing 2
-
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Board Games
 
 ***
 
