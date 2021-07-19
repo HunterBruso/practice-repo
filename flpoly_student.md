@@ -17,6 +17,7 @@ I am _passionate about_:
 - Board Games
 
 | **COP** | **MAC** |
+| ---- | ----  |
 | **2073**  | **1147**  |
 | *Introduction to Data Science*  | *Precalculus Algebra/Trigonometry*  |
 |  3  |  4  |
